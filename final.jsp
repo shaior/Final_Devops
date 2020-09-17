@@ -7,7 +7,7 @@
 <title>Shai Oren Registration Form</title>
 </head>
 <body>
-<h1>Shai Oren 15/09 Register Form</h1>
+<h1>Shai Oren final Register Form</h1>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
